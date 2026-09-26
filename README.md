@@ -1,26 +1,26 @@
-# ⚡ windows_but_fast
+# ⚡ winfastie
 
 <p align="center">
-  <b>A high-performance, minimalist Windows deployment tool powered by winget.</b>
+  <b>Tired of opening endless browser tabs and wasting hours setting up a PC? This app is for you!</b>
 </p>
 
 ---
 
 ## 🖤 Overview
 
-`windows_but_fast` is a lightweight, custom-rendered Windows utility designed to streamline the installation and setup of essential software. Built with a sleek **Noir aesthetic** and a custom Python/Tkinter engine, it provides a fast, distraction-free interface for batch-deploying your favorite developer tools, browsers, and utilities.
+`winfastie` is a high-performance, lightweight Windows deployment utility featuring a minimalist **Noir aesthetic**. Powered by `winget`, it allows you to batch-install all your essential software with a single click, completely eliminating setup fatigue.
 
-## ✨ Features
+## ✨ Key Features
 
-* **Custom Noir Interface:** Minimalist dark-mode design built from scratch using `tkinter.Canvas` with custom smooth scrolling and components.
-* **Winget Integration:** Direct, asynchronous background execution of Windows Package Manager commands with real-time progress and live stream output.
-* **Modular Configuration:** Easily customizable app lists, categories, and packages via an external `config/settings.json` file.
-* **Single-Executable Ready:** Easily packable into a standalone `.exe` via PyInstaller.
+* **Custom Noir Interface:** Sleek dark-mode design built entirely from scratch using `tkinter.Canvas`, featuring custom smooth scrolling and custom UI components.
+* **Winget Integration:** Asynchronous background execution of Windows Package Manager commands with real-time progress tracking and live stream output logging.
+* **Modular Configuration:** Easily customize categories and software packages via an external `config/settings.json` file.
+* **Standalone Ready:** Fully optimized to be packed into a single portable `.exe` file using PyInstaller.
 
-## 🚀 Installation & Usage
+## 🚀 Getting Started
 
-### Option A: Run from Source (Recommended for Developers)
+### Option A: Run from Source (Recommended)
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/micky1028/winfastie.git](https://github.com/tuo-username/windows_but_fast.git)
-   cd windows_but_fast
+   git clone [https://github.com/micky1028/winfastie.git](https://github.com/micky1028/winfastie.git)
+   cd winfastie
