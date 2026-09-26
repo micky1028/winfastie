@@ -1,0 +1,36 @@
+{
+    "browsers": [
+    {"name": "Google Chrome", "winget_id": "Google.Chrome"},
+    {"name": "Mozilla Firefox", "winget_id": "Mozilla.Firefox"},
+    {"name": "Brave", "winget_id": "Brave.Brave"},
+    {"name": "Opera", "winget_id": "Opera.Opera"},
+    {"name": "Vivaldi", "winget_id": "Vivaldi.Vivaldi"}
+  ],
+  "gaming": [
+    {"name": "Steam", "winget_id": "Valve.Steam"},
+    {"name": "Discord", "winget_id": "Discord.Discord"},
+    {"name": "Epic Games", "winget_id": "EpicGames.EpicGamesLauncher"},
+    {"name": "Roblox", "winget_id": "pizzaboxer.Bloxstrap"},
+    {"name": "GOG.Galaxy", "winget_id": "GOG.Galaxy"},
+    {"name": "Battle.net", "winget_id": "Blizzard.BattleNet"},
+    {"name": "Origin", "winget_id": "ElectronicArts.Origin"}
+  ],
+  "developers": [
+    {"name": "Visual Studio Code", "winget_id": "Microsoft.VisualStudioCode"},
+    {"name": "Git", "winget_id": "Git.Git"},
+    {"name": "Python 3.14", "winget_id": "Python.Python.3.14"},
+    {"name": "Node.js", "winget_id": "OpenJS.NodeJS.LTS"},
+    {"name": "Docker Desktop", "winget_id": "Docker.DockerDesktop"},
+    {"name": "Postman", "winget_id": "Postman.Postman"},
+    {"name": "Oracle VirtualBox", "winget_id": "Oracle.VirtualBox"},
+    {"name": "rufus", "winget_id": "Rufus.Rufus"}
+  ],
+  "utilities": [
+    {"name": "7-Zip", "winget_id": "7zip.7zip"},
+    {"name": "PowerToys", "winget_id": "Microsoft.PowerToys"},
+    {"name": "Bitwarden", "winget_id": "Bitwarden.Bitwarden"},
+    {"name": "VLC Media Player", "winget_id": "VideoLAN.VLC"},
+    {"name": "Notepad++", "winget_id": "Notepad++.Notepad++"},
+    {"name": "WinRAR", "winget_id": "RARLab.WinRAR"}
+  ]
+}
