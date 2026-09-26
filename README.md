@@ -22,5 +22,5 @@
 ### Option A: Run from Source (Recommended for Developers)
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/tuo-username/windows_but_fast.git](https://github.com/tuo-username/windows_but_fast.git)
+   git clone [https://github.com/micky1028/winfastie.git](https://github.com/tuo-username/windows_but_fast.git)
    cd windows_but_fast
